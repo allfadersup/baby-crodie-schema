@@ -1,0 +1,2 @@
+# baby-crodie-schema
+MCP
